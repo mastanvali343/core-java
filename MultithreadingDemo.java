@@ -7,6 +7,7 @@ class MultithreadingDemo extends Thread {
 	
 	MultithreadingDemo md = new MultithreadingDemo();
 	md.start();
+	System.out.println("MultiDemo");
 
   }
 }
